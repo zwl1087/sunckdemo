@@ -1,3 +1,5 @@
 sunck is a handsome man
 
 test remote commit code as 
+
+test gitignore file

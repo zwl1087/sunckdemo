@@ -5,4 +5,6 @@ test remote commit code as
 test gitignore file
 test gitignore file second
 test gitignore file threerd
+test gitignore file fore
+
 

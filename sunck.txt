@@ -10,8 +10,7 @@ test gitignore file five
 dev branch submit
 zwldev branch  redo submit
 
-<<<<<<< HEAD
-=======
+
 
 coding is end,submit code to master
->>>>>>> zwldev
+

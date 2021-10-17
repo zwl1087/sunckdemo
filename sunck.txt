@@ -12,4 +12,5 @@ test gitignore file five
 zwldev branch  redo submit
 
 
-coding is end,submit code to master
+coding is end,submit code to master -- fail
+coding is end,submit code to master -- retry

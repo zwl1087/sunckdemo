@@ -16,3 +16,5 @@ coding is end,submit code to master
 
 create to master changes
 
+初始分支的内容和master的内容是完全一致的
+dev -- 提交
